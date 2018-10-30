@@ -3,7 +3,7 @@ library(agricolae)
 
 #for hand generated
 #set working directory
-setwd("D:/PhD/Videos/stationary_output")
+setwd("D:/.../signals")
 
 #read final stationary data
 finaldf <- read.table("stationaryfinal_noFFT.txt", header=TRUE)
